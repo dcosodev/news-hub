@@ -1,6 +1,6 @@
 # 📰 NewsHub: Your Personal News Aggregator 🌐
 
-![NewsHub Screenshot](.\assets\images\screenshot.PNG)
+![NewsHub Screenshot](.\assets\images\screenshot.png)
 
 
 ## 📋 Table of Contents
@@ -57,7 +57,7 @@ NewsHub is a full-stack news aggregation platform that combines a Python-based A
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/newshub.git
+   git clone https://github.com/dcosodev/newsapp.git
    cd newshub
    ```
 
