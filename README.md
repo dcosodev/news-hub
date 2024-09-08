@@ -1,6 +1,6 @@
 # 📰 NewsHub: Your Personal News Aggregator 🌐
 
-![NewsHub Screenshot](assets\images\screenshot.png)
+![NewsHub Screenshot](assets/images/screenshot.PNG)
 
 
 ## 📋 Table of Contents
