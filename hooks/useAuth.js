@@ -15,8 +15,7 @@ const useAuth = () => {
   }, []);
 
   const login = async (email, password) => {
-    // Implement your login logic here
-    // For now, we'll just simulate a successful login
+
     const user = { email, name: email.split('@')[0] };
     await AsyncStorage.setItem('user', JSON.stringify(user));
     setUser(user);
