@@ -55,8 +55,7 @@ const useAuth = () => {
   };
 
   const register = async (email: string, password: string) => {
-    // Implement your registration logic here
-    // For now, we'll just simulate a successful registration
+  
     const user = { email, name: email.split('@')[0] };
     await setItem('user', JSON.stringify(user));
     setUser(user);
